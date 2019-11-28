@@ -54,7 +54,7 @@
             // 
             // btnSave
             // 
-            this.btnSave.Location = new System.Drawing.Point(286, 285);
+            this.btnSave.Location = new System.Drawing.Point(302, 285);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(102, 23);
             this.btnSave.TabIndex = 2;
@@ -75,7 +75,7 @@
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Tasks";
             this.ResumeLayout(false);
 
         }
